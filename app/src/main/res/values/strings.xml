@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GlassX1.0</string>
+    <string name="home_activity_title">GLASS X</string>
+    <string name="mode_about_me">ABOUT ME</string>
+    <string name="mode_home_auto">HOME X</string>
+    <string name="mode_remind_me">REMIND ME</string>
+    <string name="mode_settings">SETTINGS</string>
+    <string name="mode_notifications">NOTIFY ME</string>
+    <string name="mode_find_glass">FIND MY GLASS X</string>
+</resources>
